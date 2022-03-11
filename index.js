@@ -6,6 +6,7 @@ const index = () => {
       <div>index212</div>
       <div>index</div>
       <div>inde5x</div>
+      <div>inde5=x</div>
     </>
   );
 };
