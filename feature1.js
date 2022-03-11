@@ -5,6 +5,8 @@ const feature1 = () => {
       <>
         <div>feature1</div>      
         <div>bug1</div>      
+        <div>feature2</div>      
+        <div>feature2.1</div>      
       </>
   )
 }
