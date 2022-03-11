@@ -7,6 +7,7 @@ const feature1 = () => {
         <div>bug1</div>      
         <div>feature2</div>      
         <div>feature2.1</div>      
+        <div>fix.1</div>      
       </>
   )
 }
