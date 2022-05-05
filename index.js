@@ -8,6 +8,7 @@ const index = () => {
     <div>Commit 3</div>
     <div>Commit 4</div>
     <div>Commit 5</div>
+    <div>Commit 6</div>
     
     </>
   )
