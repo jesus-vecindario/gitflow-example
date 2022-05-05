@@ -5,6 +5,7 @@ const index = () => {
     <>
     <div>Commit 1</div>
     <div>Commit 2</div>
+    <div>Commit 3</div>
     
     </>
   )
