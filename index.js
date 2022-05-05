@@ -9,6 +9,7 @@ const index = () => {
     <div>Commit 4</div>
     <div>Commit 5</div>
     <div>Commit 6</div>
+    <div>Commit 7</div>
     
     </>
   )
